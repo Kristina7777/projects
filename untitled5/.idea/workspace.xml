@@ -1,80 +1,254 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d566dc3-5c94-4d85-bb26-228caa64ef03" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="857fc2f1-0eaf-4e8e-a62e-9db8a2ada45c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Care/Care.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Duck/Duck.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTimerTask/MyTimerTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/Starbuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/StarbuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starbuzz/src/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WeatherStation/WeatherStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timer/timer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/libraries/mssql_jdbc_9_1_0_jre15_preview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/libraries/mssql_jdbc_9_1_0_jre15_preview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowerCaseInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled10/untitled10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled11/untitled11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled5/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled6/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled7/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled8/untitled8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled9/untitled9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/Test_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/out/production/Test_5/Test_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/src/Test_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/HelloWorld/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/out/production/untitled10/Ideone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/src/Ideone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/untitled10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/out/production/untitled11/CAlphabet_lab5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/src/CAlphabet_lab5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/untitled11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/out/production/untitled2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/untitled3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/untitled4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/out/production/untitled6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/untitled6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/out/production/untitled7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/untitled7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/out/production/untitled8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/untitled8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/out/production/untitled9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/untitled9.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="90" />
-    <option name="width" value="1028" />
-    <option name="height" value="540" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectId" id="1rUgT0JSHmebNlI6j6oi4dYGYmF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputTest" />
+      <module name="untitled5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InputTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d566dc3-5c94-4d85-bb26-228caa64ef03" name="Default Changelist" comment="" />
-      <created>1556314227990</created>
+      <changelist id="857fc2f1-0eaf-4e8e-a62e-9db8a2ada45c" name="Default Changelist" comment="" />
+      <created>1619036088681</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1556314227990</updated>
+      <updated>1619036088681</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1107" height="590" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24928367" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619036114307">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state x="2" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1093.576@0.0.1093.576" timestamp="1619036114307" />
+    <state x="321" y="89" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619039262235">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state x="321" y="89" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1093.576@0.0.1093.576" timestamp="1619039262235" />
+    <state x="352" y="3" key="#com.intellij.ide.util.MemberChooser" timestamp="1619036212038">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state x="352" y="3" key="#com.intellij.ide.util.MemberChooser/0.0.1093.576@0.0.1093.576" timestamp="1619036212038" />
+    <state width="1049" height="117" key="GridCell.Tab.0.bottom" timestamp="1619039598507">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state width="1049" height="117" key="GridCell.Tab.0.bottom/0.0.1093.576@0.0.1093.576" timestamp="1619039598507" />
+    <state width="1049" height="117" key="GridCell.Tab.0.center" timestamp="1619039598507">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state width="1049" height="117" key="GridCell.Tab.0.center/0.0.1093.576@0.0.1093.576" timestamp="1619039598507" />
+    <state width="1049" height="117" key="GridCell.Tab.0.left" timestamp="1619039598507">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state width="1049" height="117" key="GridCell.Tab.0.left/0.0.1093.576@0.0.1093.576" timestamp="1619039598507" />
+    <state width="1049" height="117" key="GridCell.Tab.0.right" timestamp="1619039598507">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state width="1049" height="117" key="GridCell.Tab.0.right/0.0.1093.576@0.0.1093.576" timestamp="1619039598507" />
   </component>
 </project>

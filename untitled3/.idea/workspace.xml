@@ -1,173 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7aae788-e42f-41d3-869c-abdcc297f973" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="faaf2f8a-9417-448f-9077-a186bb6f709f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MyTimerTask/MyTimerTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timer/timer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mssql_jdbc_9_1_0_jre15_preview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/libraries/mssql_jdbc_9_1_0_jre15_preview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled10/untitled10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled11/untitled11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled5/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled6/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled7/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled8/untitled8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitleds/untitled9/untitled9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/Test_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/out/production/Test_5/Test_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_5/src/Test_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/HelloWorld/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/out/production/untitled10/Ideone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/src/Ideone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled10/untitled10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/out/production/untitled11/CAlphabet_lab5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/src/CAlphabet_lab5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled11/untitled11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/out/production/untitled2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/untitled4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled5/untitled5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/out/production/untitled6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/untitled6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/out/production/untitled7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/untitled7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/out/production/untitled8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled8/untitled8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/out/production/untitled9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/untitled9.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="90" />
-    <option name="width" value="1029" />
-    <option name="height" value="540" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kpcNKSf0edwtQUPJUKQWSQdHnn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\untitled3\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\untitled3\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="untitled3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f7aae788-e42f-41d3-869c-abdcc297f973" name="Default Changelist" comment="" />
-      <created>1556312359512</created>
+      <changelist id="faaf2f8a-9417-448f-9077-a186bb6f709f" name="Default Changelist" comment="" />
+      <created>1606160374975</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1556312359512</updated>
+      <updated>1606160374975</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1107" height="590" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24928367" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>untitled3</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="27" y="0" key="#Project_Structure" timestamp="1606402464105">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state x="27" y="0" key="#Project_Structure/0.0.1093.576@0.0.1093.576" timestamp="1606402464105" />
+    <state x="251" y="28" key="FileChooserDialogImpl" timestamp="1606602968932">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state x="251" y="28" key="FileChooserDialogImpl/0.0.1093.576@0.0.1093.576" timestamp="1606602968932" />
+    <state x="27" y="0" key="SettingsEditor" timestamp="1606420082206">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state x="27" y="0" key="SettingsEditor/0.0.1093.576@0.0.1093.576" timestamp="1606420082206" />
+    <state x="0" y="0" key="new project wizard" timestamp="1606566451266">
+      <screen x="0" y="0" width="1093" height="576" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1093.576@0.0.1093.576" timestamp="1606566451266" />
   </component>
 </project>
